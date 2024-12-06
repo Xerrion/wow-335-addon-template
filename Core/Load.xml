@@ -1,0 +1,14 @@
+<Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+    <!-- The helpers file handles the helper functions for the addon -->
+    <Include file="Helpers\Load.xml"/>
+    <!-- The options file handles the options table for the addon -->
+    <Script file="Options.lua"/>
+    <!-- The frames file handles the creation of the addon's GUI -->
+    <Script file="Frames.lua"/>
+    <!-- The events file handles the event handling for the addon -->
+    <Script file="Events.lua"/>
+    <!-- The commands file handles the slash commands for the addon -->
+    <Script file="Commands.lua"/>
+    <!-- The core file handles the main logic of the addon -->
+    <Script file="Core.lua"/>
+</Ui>

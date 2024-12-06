@@ -1,0 +1,20 @@
+{
+    "Lua.diagnostics.globals": [
+        "SlashCmdList",
+        "hash_SlashCmdList",
+        "DEFAULT_CHAT_FRAME",
+        "ShoppingTooltip1",
+        "ShoppingTooltip2",
+        "ItemRefTooltip",
+        "UISpecialFrames",
+        "UIParent_OnEvent",
+        "message",
+        "BackpackTokenFrame",
+        "TokenFrame",
+        "TokenFramePopup",
+        "UIErrorsFrame",
+        "ReloadUI",
+        "Add",
+        "switch",
+    ]
+}

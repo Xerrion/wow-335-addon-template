@@ -1,0 +1,4 @@
+<!-- This file is used to load all the helper scripts. -->
+<Ui xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+    <Script file="Switch.lua"/>
+</Ui>
